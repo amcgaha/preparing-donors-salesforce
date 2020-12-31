@@ -1,6 +1,8 @@
 # Preparing Donor Information for Salesforce
 
-[Image!](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/Yoga_Studio_Preview.pdf)
+
+
+[Image!](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/images/yoga_explorer_preview%20-%20Copy.png)
 
 ## Context
 I consulted with a non-profit organization that ran a nationwide donation campaign last year. They used Google Sheets to organize information on potential donors, mark the status of contributions, and track their communication logs.
@@ -9,9 +11,9 @@ I consulted with a non-profit organization that ran a nationwide donation campai
 After a successful fundraising campaign, the organization wanted to upload their donor list into Salesforce. The problem is that the data was far too messy to upload, making their valuable resource of donor information essentially useless. Before we worked together, the organization was planning to spend valuable volunteer hours to fix thousands of records by hand.
 
 ## Data
-The data was spread across 50 tabs (one for each state), with lots of inconsistencies, errors, duplicates, and blanks. The client organization hoped to have the data combined into one tidy table in a format that would work for Salesforce and that could be referenced by volunteers making calls for next year.
+The data was spread across 50 tabs (one for each state), with lots of inconsistencies, errors, duplicates, and blanks. The organization hoped to have the data combined into one tidy table in a format that would work for Salesforce and that could be referenced by volunteers making calls for next year.
 
-I used Python and Pandas to explore the data and clean it to fit the client’s requests. You can view my process in [this Jupyter Notebook](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/Cleaning%20Salesforce%20Input.ipynb).
+I used **Python** and **Pandas** to explore the data and clean it to fit the client’s requests. You can view my process in [this Jupyter Notebook](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/Cleaning%20Salesforce%20Input.ipynb).
 
 ## Product
 I produced a tidy dataset for the organization, along with a few bonus features to help set them up for success in the next campaign. Because the organization uses many volunteers to make phone calls, they requested the data be organized in Google Sheets. I added the following features to their spreadsheet:
