@@ -19,4 +19,4 @@ I produced a tidy dataset for the organization, along with a few bonus features 
 * Conditional formatting to highlight donors who have given a decision this year
 * Filter views for each state, so that there’s no need to separate states by a tab. This will also help with data integrity.
 
-Finally, I produced a dashboard in **Power BI** to help the organization explore donor information by geography.
+Finally, I produced [this dashboard](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/Yoga_Studio_Preview.pdf) in **Power BI** to help the organization explore donor information by geography.
