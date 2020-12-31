@@ -1,7 +1,9 @@
 # Preparing Donor Information for Salesforce
 
+[Image!](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/Yoga_Studio_Preview.pdf)
+
 ## Context
-I consulted with a non-profit organization who ran a nationwide donation campaign last year. They used Google Sheets to organize information on potential donors, mark the status of contributions, and track their communication logs.
+I consulted with a non-profit organization that ran a nationwide donation campaign last year. They used Google Sheets to organize information on potential donors, mark the status of contributions, and track their communication logs.
 
 ## Business Problem
 After a successful fundraising campaign, the organization wanted to upload their donor list into Salesforce. The problem is that the data was far too messy to upload, making their valuable resource of donor information essentially useless. Before we worked together, the organization was planning to spend valuable volunteer hours to fix thousands of records by hand.
