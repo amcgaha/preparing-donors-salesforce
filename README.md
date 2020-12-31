@@ -1,11 +1,11 @@
 # Preparing Donor Information for Salesforce
-
-
+I consulted with a non-profit organization to help them turn messy spreadsheets of donor information into a tidy form for importing into Salesforce. I used **Python** to clean and transform the data, and I used advanced **Google Sheets** skills to create a more robust process for data collection. Finally, I used **Power BI** to create a dashboard for my client to explore current and potential donors by geography. 
 
 ![Image](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/images/yoga_explorer_preview%20-%20Copy.png)
 
+
 ## Context
-I consulted with a non-profit organization that ran a nationwide donation campaign last year. They used Google Sheets to organize information on potential donors, mark the status of contributions, and track their communication logs.
+I consulted with a non-profit organization that ran a fundraising campaign last year by partnering with yoga studios around the country. They used Google Sheets to organize information on potential partners and donors, mark the status of contributions, and track their communication logs.
 
 ## Business Problem
 After a successful fundraising campaign, the organization wanted to upload their donor list into Salesforce. The problem is that the data was far too messy to upload, making their valuable resource of donor information essentially useless. Before we worked together, the organization was planning to spend valuable volunteer hours to fix thousands of records by hand.
