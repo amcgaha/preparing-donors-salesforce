@@ -2,7 +2,7 @@
 
 
 
-[Image!](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/images/yoga_explorer_preview%20-%20Copy.png)
+![Image](https://github.com/amcgaha/preparing-donors-salesforce/blob/main/images/yoga_explorer_preview%20-%20Copy.png)
 
 ## Context
 I consulted with a non-profit organization that ran a nationwide donation campaign last year. They used Google Sheets to organize information on potential donors, mark the status of contributions, and track their communication logs.
